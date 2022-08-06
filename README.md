@@ -1,2 +1,2 @@
 # mapty
-learning project
+uses OOP
